@@ -20,7 +20,7 @@ Tạo thư mục C:/var/webapp/images và giải nén tất cả hình từ file
 
 ### 2. Tạo database
 
-Mở MySQL Workbench → Open SQL Script → Execute [bookshopdb.sql](https://github.com/markiusphan/BookShopWeb/blob/main/init/bookshopdb.sql)
+Mở MySQL Workbench → Open SQL Script → Execute [bookshopdb.sql]
 
 ### 3. Nạp project vào IDEA
 
